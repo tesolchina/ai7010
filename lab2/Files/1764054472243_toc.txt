@@ -1,0 +1,28 @@
+Table of Contents (OCR Results)
+======================================================================
+
+Raw OCR Text:
+----------------------------------------------------------------------
+(PIL not installed)
+
+Parsed ToC Entries:
+----------------------------------------------------------------------
+1. EDITORIAL (page 2)
+2. NEWS, ETC (page 3)
+3. CONFERENCES (page 6)
+  4. INFORM (page 6)
+  5. IAHR (page 8)
+6. FEATURES (page 11)
+  7. A NEW ARCHIVAL RESOURCE (page 11)
+  8. TEACHING ABOUT RELIGION AND CLIMATE CHANGE (page 13)
+  9. WORLD RELIGIONS PARADIGM REVISITED (page 16)
+10. MEET THE MEMBERS (page 18)
+11. BOOK REVIEWS (page 20)
+  12. EPISTEMIC AMBIVALENCE (page 20)
+  13. THE MINISTRY OF LOUIS FARRAKHAN (page 21)
+  14. NEOLIBERAL RELIGION (page 23)
+  15. SETTING OUT ON THE GREAT WAY (page 25)
+  16. RELIGION AND HUMOUR (page 28)
+  17. RELIGION AND TOURISM IN JAPAN (page 30)
+  18. ATHEISM IN 5 MINUTES (page 31)
+19. RECENT PUBLICATIONS (page 34)
