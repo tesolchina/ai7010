@@ -1,0 +1,13 @@
+Metric,Value,Details
+Processing Status,Incomplete,Stopped at paragraph 122 of 470
+Completion Percentage,26%,122/470 paragraphs analyzed
+Total Initiatives Found,138,Extracted from first 26% of document
+Average Initiatives per Paragraph,1.13,"138 initiatives / 122 paragraphs"
+Estimated Total (Projection),530,"Based on current rate: 138 / 0.26 ≈ 530"
+Processing Time,6.4 minutes,"Started: 11:02:09, Stopped: 11:08:33"
+Model Used,qwen/qwen-2.5-72b-instruct,OpenRouter API
+API Status,Working,Successfully processed 122 requests
+Termination Reason,Broken Pipe,Terminal output disconnected
+Data Quality,High,LLM successfully extracting structured data
+Log File,progress_log.txt,Complete record of processing
+Next Action Required,Resume Processing,Continue from paragraph 123

@@ -1,0 +1,28 @@
+[2025-11-27 13:40:32] ================================================================================
+[2025-11-27 13:40:32] GENERATING SLIDE 2 WITH GOOGLE GEMINI-3-PRO-IMAGE-PREVIEW
+[2025-11-27 13:40:32] ================================================================================
+[2025-11-27 13:40:32] Reading API key...
+[2025-11-27 13:40:32] ✓ API key loaded: sk-or-v1-138e45...
+[2025-11-27 13:40:32] 
+[2025-11-27 13:40:32] Preparing API request...
+[2025-11-27 13:40:32] Model: google/gemini-3-pro-image-preview
+[2025-11-27 13:40:32] Modalities: [image, text]
+[2025-11-27 13:40:32] Prompt length: 1105 chars
+[2025-11-27 13:40:32] 
+[2025-11-27 13:40:32] Sending request to OpenRouter API...
+[2025-11-27 13:40:32] Requesting Gemini to generate the slide image...
+[2025-11-27 13:40:32] This may take 30-60 seconds...
+[2025-11-27 13:40:59] Response Status: 200
+[2025-11-27 13:40:59] ✓ Request successful!
+[2025-11-27 13:40:59] ✓ Found 1 choice(s)
+[2025-11-27 13:40:59] Message keys: ['role', 'content', 'refusal', 'reasoning', 'reasoning_details', 'images']
+[2025-11-27 13:40:59] ✓✓✓ SUCCESS! Found 1 image(s)!
+[2025-11-27 13:40:59] Processing image 1...
+[2025-11-27 13:40:59] Image URL prefix: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABWAA...
+[2025-11-27 13:40:59] ✓ Image decoded: 970841 bytes
+[2025-11-27 13:40:59] ✓ Saved to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_2_gemini.png
+[2025-11-27 13:40:59] 
+[2025-11-27 13:40:59] ================================================================================
+[2025-11-27 13:40:59] ✓✓✓ SLIDE 2 SUCCESSFULLY GENERATED!
+[2025-11-27 13:40:59] Output: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_2_gemini.png
+[2025-11-27 13:40:59] ================================================================================

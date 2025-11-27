@@ -1,0 +1,23 @@
+DALL-E PROMPT FOR SLIDE 1
+==================================================
+
+A professional presentation slide design showing:
+
+**Title:** AI Agents for Research
+**Subtitle:** Transforming Research Workflows for PhD Students in Philosophy and Religion
+
+**Author:** Dr. Simon Wang
+**Affiliation 1:** Lecturer & Innovation Officer
+**Affiliation 2:** The Language Centre, HKBU
+
+The slide should feature a clean, modern aesthetic with a minimalist approach. The background is a gradient from a very light grey (#F8F8F8) at the top to a subtle, slightly darker light grey (#EEEEEE) at the bottom.
+
+The main title "**AI Agents for Research**" is prominently displayed at the top center, using a bold, sans-serif font like Montserrat or a similar modern typeface, in a deep charcoal grey (#333333). Font size should be large and impactful.
+
+Below the title, the subtitle "**Transforming Research Workflows for PhD Students in Philosophy and Religion**" is centered, using a slightly lighter weight of the same sans-serif font, in a medium grey (#666666). This text is smaller than the title but still clearly readable.
+
+A visually striking, modern QR code representing "Edit the slides" is integrated into the design, positioned on the left side of the slide, centered vertically against the author information. The QR code is a clean, black and white design with rounded corners.
+
+On the right side of the slide, vertically aligned with the QR code, the author information is presented. "**Dr. Simon Wang**" is in a medium sans-serif font, medium grey (#666666). Below that, "**Lecturer & Innovation Officer**" and "**The Language Centre, HKBU**" are in a slightly smaller, lighter weight font, also in medium grey (#666666). The text is left-aligned within its section.
+
+Subtle, abstract geometric shapes or a neural network-inspired graphic weave lightly through the background but are heavily faded, almost transparent, in shades of very light blue and grey, symbolizing AI and research without distracting from the text. There are no heavy borders or ornate elements. The overall look is professional, high-tech, and approachable.

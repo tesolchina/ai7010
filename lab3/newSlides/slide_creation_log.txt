@@ -1,0 +1,13 @@
+[2025-11-27 13:38:42] ============================================================
+[2025-11-27 13:38:42] Starting Programmatic Slide Creation
+[2025-11-27 13:38:42] Using Gemini's redesign specifications
+[2025-11-27 13:38:42] ============================================================
+[2025-11-27 13:38:42] Creating Slide 1: AI Agents for Research
+[2025-11-27 13:38:42] ✓ Slide 1 saved to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_1_new.png
+[2025-11-27 13:38:42] Creating Slide 2: Two Ways to Communicate with AI
+[2025-11-27 13:38:42] ✓ Slide 2 saved to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_2_new.png
+[2025-11-27 13:38:42] ============================================================
+[2025-11-27 13:38:42] Slide creation complete!
+[2025-11-27 13:38:42] Slide 1: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_1_new.png
+[2025-11-27 13:38:42] Slide 2: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_2_new.png
+[2025-11-27 13:38:42] ============================================================

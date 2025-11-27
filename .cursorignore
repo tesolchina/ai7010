@@ -1,8 +1,10 @@
 # API Keys and Secrets - DO NOT INDEX
 APIkey.md
+APIkey.txt
 
 # Logs may contain sensitive info
 *.log
+
 
 
 

@@ -1,0 +1,1087 @@
+================================================================================
+INITIATIVES EXTRACTION - INCREMENTAL SAVE VERSION
+Started: 2025-11-27 11:22:46
+================================================================================
+
+[2025-11-27 11:22:46] Starting Incremental Extraction Process
+[2025-11-27 11:22:46] ================================================================================
+[2025-11-27 11:22:46] ✓ API key loaded
+[2025-11-27 11:22:46] ✓ Extracted 470 paragraphs from XML
+[2025-11-27 11:22:46] Model: qwen/qwen-2.5-72b-instruct
+[2025-11-27 11:22:46] ✓ CSV file initialized: /Users/simonwang/Documents/Usage/ai7010/lab2/output/initiatives.csv
+[2025-11-27 11:22:46] 
+[2025-11-27 11:22:46] ================================================================================
+[2025-11-27 11:22:46] Processing Paragraphs (Saving incrementally)
+[2025-11-27 11:22:46] ================================================================================
+[2025-11-27 11:22:46] 
+Paragraph 1/470:
+[2025-11-27 11:22:47]   - No initiatives found
+[2025-11-27 11:22:48] 
+Paragraph 2/470:
+[2025-11-27 11:22:49]   - No initiatives found
+[2025-11-27 11:22:49] 
+Paragraph 3/470:
+[2025-11-27 11:22:51]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:22:51]   Total so far: 1
+[2025-11-27 11:22:52] 
+Paragraph 4/470:
+[2025-11-27 11:22:53]   - No initiatives found
+[2025-11-27 11:22:54] 
+Paragraph 5/470:
+[2025-11-27 11:23:02]   ✓ Found 7 initiative(s) - SAVED to CSV
+[2025-11-27 11:23:02]   Total so far: 8
+[2025-11-27 11:23:02] 
+Paragraph 6/470:
+[2025-11-27 11:23:08]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:23:08]   Total so far: 11
+[2025-11-27 11:23:09] 
+Paragraph 7/470:
+[2025-11-27 11:23:14]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:23:14]   Total so far: 15
+[2025-11-27 11:23:15] 
+Paragraph 8/470:
+[2025-11-27 11:23:28]   ✓ Found 8 initiative(s) - SAVED to CSV
+[2025-11-27 11:23:28]   Total so far: 23
+[2025-11-27 11:23:29] 
+Paragraph 9/470:
+[2025-11-27 11:23:30]   - No initiatives found
+[2025-11-27 11:23:30] 
+Paragraph 10/470:
+[2025-11-27 11:23:31]   - No initiatives found
+[2025-11-27 11:23:32] 
+================================================================================
+[2025-11-27 11:23:32] CHECKPOINT: 10/470 paragraphs processed
+[2025-11-27 11:23:32] Total initiatives saved to CSV: 23
+[2025-11-27 11:23:32] ================================================================================
+
+[2025-11-27 11:23:32] 
+Paragraph 11/470:
+[2025-11-27 11:23:52]   - No initiatives found
+[2025-11-27 11:23:52] 
+Paragraph 12/470:
+[2025-11-27 11:23:53]   - No initiatives found
+[2025-11-27 11:23:54] 
+Paragraph 13/470:
+[2025-11-27 11:23:54]   - No initiatives found
+[2025-11-27 11:23:55] 
+Paragraph 14/470:
+[2025-11-27 11:23:55]   - No initiatives found
+[2025-11-27 11:23:56] 
+Paragraph 15/470:
+[2025-11-27 11:23:57]   - No initiatives found
+[2025-11-27 11:23:58] 
+Paragraph 16/470:
+[2025-11-27 11:23:59]   - No initiatives found
+[2025-11-27 11:23:59] 
+Paragraph 17/470:
+[2025-11-27 11:24:02]   - No initiatives found
+[2025-11-27 11:24:02] 
+Paragraph 18/470:
+[2025-11-27 11:24:04]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:04]   Total so far: 24
+[2025-11-27 11:24:05] 
+Paragraph 19/470:
+[2025-11-27 11:24:06]   - No initiatives found
+[2025-11-27 11:24:06] 
+Paragraph 20/470:
+[2025-11-27 11:24:07]   - No initiatives found
+[2025-11-27 11:24:08] 
+================================================================================
+[2025-11-27 11:24:08] CHECKPOINT: 20/470 paragraphs processed
+[2025-11-27 11:24:08] Total initiatives saved to CSV: 24
+[2025-11-27 11:24:08] ================================================================================
+
+[2025-11-27 11:24:08] 
+Paragraph 21/470:
+[2025-11-27 11:24:11]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:11]   Total so far: 26
+[2025-11-27 11:24:12] 
+Paragraph 22/470:
+[2025-11-27 11:24:13]   - No initiatives found
+[2025-11-27 11:24:13] 
+Paragraph 23/470:
+[2025-11-27 11:24:14]   - No initiatives found
+[2025-11-27 11:24:14] 
+Paragraph 24/470:
+[2025-11-27 11:24:18]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:18]   Total so far: 28
+[2025-11-27 11:24:19] 
+Paragraph 25/470:
+[2025-11-27 11:24:21]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:21]   Total so far: 29
+[2025-11-27 11:24:22] 
+Paragraph 26/470:
+[2025-11-27 11:24:27]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:27]   Total so far: 34
+[2025-11-27 11:24:28] 
+Paragraph 27/470:
+[2025-11-27 11:24:30]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:30]   Total so far: 35
+[2025-11-27 11:24:30] 
+Paragraph 28/470:
+[2025-11-27 11:24:34]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:34]   Total so far: 36
+[2025-11-27 11:24:35] 
+Paragraph 29/470:
+[2025-11-27 11:24:44]   ✓ Found 8 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:44]   Total so far: 44
+[2025-11-27 11:24:44] 
+Paragraph 30/470:
+[2025-11-27 11:24:45]   - No initiatives found
+[2025-11-27 11:24:45] 
+================================================================================
+[2025-11-27 11:24:45] CHECKPOINT: 30/470 paragraphs processed
+[2025-11-27 11:24:45] Total initiatives saved to CSV: 44
+[2025-11-27 11:24:45] ================================================================================
+
+[2025-11-27 11:24:45] 
+Paragraph 31/470:
+[2025-11-27 11:24:46]   - No initiatives found
+[2025-11-27 11:24:47] 
+Paragraph 32/470:
+[2025-11-27 11:24:49]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:24:49]   Total so far: 45
+[2025-11-27 11:24:50] 
+Paragraph 33/470:
+[2025-11-27 11:24:51]   - No initiatives found
+[2025-11-27 11:24:51] 
+Paragraph 34/470:
+[2025-11-27 11:24:52]   - No initiatives found
+[2025-11-27 11:24:53] 
+Paragraph 35/470:
+[2025-11-27 11:24:54]   - No initiatives found
+[2025-11-27 11:24:54] 
+Paragraph 36/470:
+[2025-11-27 11:24:55]   - No initiatives found
+[2025-11-27 11:24:55] 
+Paragraph 37/470:
+[2025-11-27 11:24:56]   - No initiatives found
+[2025-11-27 11:24:56] 
+Paragraph 38/470:
+[2025-11-27 11:24:57]   - No initiatives found
+[2025-11-27 11:24:58] 
+Paragraph 39/470:
+[2025-11-27 11:24:58]   - No initiatives found
+[2025-11-27 11:24:59] 
+Paragraph 40/470:
+[2025-11-27 11:25:00]   - No initiatives found
+[2025-11-27 11:25:00] 
+================================================================================
+[2025-11-27 11:25:00] CHECKPOINT: 40/470 paragraphs processed
+[2025-11-27 11:25:00] Total initiatives saved to CSV: 45
+[2025-11-27 11:25:00] ================================================================================
+
+[2025-11-27 11:25:00] 
+Paragraph 41/470:
+[2025-11-27 11:25:03]   - No initiatives found
+[2025-11-27 11:25:03] 
+Paragraph 42/470:
+[2025-11-27 11:25:04]   - No initiatives found
+[2025-11-27 11:25:04] 
+Paragraph 43/470:
+[2025-11-27 11:25:05]   - No initiatives found
+[2025-11-27 11:25:06] 
+Paragraph 44/470:
+[2025-11-27 11:25:08]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:08]   Total so far: 46
+[2025-11-27 11:25:08] 
+Paragraph 45/470:
+[2025-11-27 11:25:10]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:10]   Total so far: 47
+[2025-11-27 11:25:11] 
+Paragraph 46/470:
+[2025-11-27 11:25:12]   - No initiatives found
+[2025-11-27 11:25:12] 
+Paragraph 47/470:
+[2025-11-27 11:25:13]   - No initiatives found
+[2025-11-27 11:25:13] 
+Paragraph 48/470:
+[2025-11-27 11:25:15]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:15]   Total so far: 48
+[2025-11-27 11:25:16] 
+Paragraph 49/470:
+[2025-11-27 11:25:16]   - No initiatives found
+[2025-11-27 11:25:17] 
+Paragraph 50/470:
+[2025-11-27 11:25:18]   - No initiatives found
+[2025-11-27 11:25:18] 
+================================================================================
+[2025-11-27 11:25:18] CHECKPOINT: 50/470 paragraphs processed
+[2025-11-27 11:25:18] Total initiatives saved to CSV: 48
+[2025-11-27 11:25:18] ================================================================================
+
+[2025-11-27 11:25:18] 
+Paragraph 51/470:
+[2025-11-27 11:25:19]   - No initiatives found
+[2025-11-27 11:25:20] 
+Paragraph 52/470:
+[2025-11-27 11:25:21]   - No initiatives found
+[2025-11-27 11:25:21] 
+Paragraph 53/470:
+[2025-11-27 11:25:23]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:23]   Total so far: 49
+[2025-11-27 11:25:24] 
+Paragraph 54/470:
+[2025-11-27 11:25:25]   - No initiatives found
+[2025-11-27 11:25:25] 
+Paragraph 55/470:
+[2025-11-27 11:25:29]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:29]   Total so far: 50
+[2025-11-27 11:25:29] 
+Paragraph 56/470:
+[2025-11-27 11:25:35]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:35]   Total so far: 52
+[2025-11-27 11:25:36] 
+Paragraph 57/470:
+[2025-11-27 11:25:38]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:38]   Total so far: 53
+[2025-11-27 11:25:39] 
+Paragraph 58/470:
+[2025-11-27 11:25:41]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:41]   Total so far: 54
+[2025-11-27 11:25:41] 
+Paragraph 59/470:
+[2025-11-27 11:25:45]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:45]   Total so far: 56
+[2025-11-27 11:25:46] 
+Paragraph 60/470:
+[2025-11-27 11:25:47]   - No initiatives found
+[2025-11-27 11:25:47] 
+================================================================================
+[2025-11-27 11:25:47] CHECKPOINT: 60/470 paragraphs processed
+[2025-11-27 11:25:47] Total initiatives saved to CSV: 56
+[2025-11-27 11:25:47] ================================================================================
+
+[2025-11-27 11:25:47] 
+Paragraph 61/470:
+[2025-11-27 11:25:49]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:49]   Total so far: 57
+[2025-11-27 11:25:50] 
+Paragraph 62/470:
+[2025-11-27 11:25:53]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:53]   Total so far: 58
+[2025-11-27 11:25:53] 
+Paragraph 63/470:
+[2025-11-27 11:25:55]   - No initiatives found
+[2025-11-27 11:25:55] 
+Paragraph 64/470:
+[2025-11-27 11:25:58]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:25:58]   Total so far: 59
+[2025-11-27 11:25:58] 
+Paragraph 65/470:
+[2025-11-27 11:26:01]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:01]   Total so far: 60
+[2025-11-27 11:26:02] 
+Paragraph 66/470:
+[2025-11-27 11:26:05]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:05]   Total so far: 62
+[2025-11-27 11:26:06] 
+Paragraph 67/470:
+[2025-11-27 11:26:08]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:08]   Total so far: 63
+[2025-11-27 11:26:08] 
+Paragraph 68/470:
+[2025-11-27 11:26:09]   - No initiatives found
+[2025-11-27 11:26:09] 
+Paragraph 69/470:
+[2025-11-27 11:26:11]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:11]   Total so far: 64
+[2025-11-27 11:26:12] 
+Paragraph 70/470:
+[2025-11-27 11:26:13]   - No initiatives found
+[2025-11-27 11:26:13] 
+================================================================================
+[2025-11-27 11:26:13] CHECKPOINT: 70/470 paragraphs processed
+[2025-11-27 11:26:13] Total initiatives saved to CSV: 64
+[2025-11-27 11:26:13] ================================================================================
+
+[2025-11-27 11:26:13] 
+Paragraph 71/470:
+[2025-11-27 11:26:15]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:15]   Total so far: 65
+[2025-11-27 11:26:16] 
+Paragraph 72/470:
+[2025-11-27 11:26:20]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:20]   Total so far: 68
+[2025-11-27 11:26:20] 
+Paragraph 73/470:
+[2025-11-27 11:26:21]   - No initiatives found
+[2025-11-27 11:26:21] 
+Paragraph 74/470:
+[2025-11-27 11:26:22]   - No initiatives found
+[2025-11-27 11:26:23] 
+Paragraph 75/470:
+[2025-11-27 11:26:28]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:28]   Total so far: 71
+[2025-11-27 11:26:28] 
+Paragraph 76/470:
+[2025-11-27 11:26:31]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:31]   Total so far: 72
+[2025-11-27 11:26:31] 
+Paragraph 77/470:
+[2025-11-27 11:26:41]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:41]   Total so far: 76
+[2025-11-27 11:26:41] 
+Paragraph 78/470:
+[2025-11-27 11:26:44]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:44]   Total so far: 77
+[2025-11-27 11:26:45] 
+Paragraph 79/470:
+[2025-11-27 11:26:47]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:47]   Total so far: 78
+[2025-11-27 11:26:48] 
+Paragraph 80/470:
+[2025-11-27 11:26:52]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:52]   Total so far: 80
+[2025-11-27 11:26:53] 
+================================================================================
+[2025-11-27 11:26:53] CHECKPOINT: 80/470 paragraphs processed
+[2025-11-27 11:26:53] Total initiatives saved to CSV: 80
+[2025-11-27 11:26:53] ================================================================================
+
+[2025-11-27 11:26:53] 
+Paragraph 81/470:
+[2025-11-27 11:26:54]   - No initiatives found
+[2025-11-27 11:26:55] 
+Paragraph 82/470:
+[2025-11-27 11:26:57]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:26:57]   Total so far: 81
+[2025-11-27 11:26:58] 
+Paragraph 83/470:
+[2025-11-27 11:26:59]   - No initiatives found
+[2025-11-27 11:26:59] 
+Paragraph 84/470:
+[2025-11-27 11:27:06]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:06]   Total so far: 86
+[2025-11-27 11:27:06] 
+Paragraph 85/470:
+[2025-11-27 11:27:11]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:11]   Total so far: 89
+[2025-11-27 11:27:11] 
+Paragraph 86/470:
+[2025-11-27 11:27:14]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:14]   Total so far: 90
+[2025-11-27 11:27:14] 
+Paragraph 87/470:
+[2025-11-27 11:27:20]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:20]   Total so far: 93
+[2025-11-27 11:27:20] 
+Paragraph 88/470:
+[2025-11-27 11:27:24]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:24]   Total so far: 95
+[2025-11-27 11:27:25] 
+Paragraph 89/470:
+[2025-11-27 11:27:30]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:30]   Total so far: 99
+[2025-11-27 11:27:31] 
+Paragraph 90/470:
+[2025-11-27 11:27:33]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:33]   Total so far: 100
+[2025-11-27 11:27:34] 
+================================================================================
+[2025-11-27 11:27:34] CHECKPOINT: 90/470 paragraphs processed
+[2025-11-27 11:27:34] Total initiatives saved to CSV: 100
+[2025-11-27 11:27:34] ================================================================================
+
+[2025-11-27 11:27:34] 
+Paragraph 91/470:
+[2025-11-27 11:27:36]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:36]   Total so far: 101
+[2025-11-27 11:27:37] 
+Paragraph 92/470:
+[2025-11-27 11:27:39]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:39]   Total so far: 102
+[2025-11-27 11:27:40] 
+Paragraph 93/470:
+[2025-11-27 11:27:42]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:42]   Total so far: 103
+[2025-11-27 11:27:42] 
+Paragraph 94/470:
+[2025-11-27 11:27:44]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:44]   Total so far: 104
+[2025-11-27 11:27:44] 
+Paragraph 95/470:
+[2025-11-27 11:27:51]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:51]   Total so far: 105
+[2025-11-27 11:27:52] 
+Paragraph 96/470:
+[2025-11-27 11:27:54]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:54]   Total so far: 106
+[2025-11-27 11:27:55] 
+Paragraph 97/470:
+[2025-11-27 11:27:57]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:27:57]   Total so far: 107
+[2025-11-27 11:27:58] 
+Paragraph 98/470:
+[2025-11-27 11:27:59]   - No initiatives found
+[2025-11-27 11:27:59] 
+Paragraph 99/470:
+[2025-11-27 11:28:01]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:28:01]   Total so far: 108
+[2025-11-27 11:28:02] 
+Paragraph 100/470:
+[2025-11-27 11:28:13]   ✓ Found 7 initiative(s) - SAVED to CSV
+[2025-11-27 11:28:13]   Total so far: 115
+[2025-11-27 11:28:13] 
+================================================================================
+[2025-11-27 11:28:13] CHECKPOINT: 100/470 paragraphs processed
+[2025-11-27 11:28:13] Total initiatives saved to CSV: 115
+[2025-11-27 11:28:13] ================================================================================
+
+[2025-11-27 11:28:13] 
+Paragraph 101/470:
+[2025-11-27 11:28:19]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:28:19]   Total so far: 119
+[2025-11-27 11:28:20] 
+Paragraph 102/470:
+[2025-11-27 11:28:21]   - No initiatives found
+[2025-11-27 11:28:21] 
+Paragraph 103/470:
+[2025-11-27 11:28:22]   - No initiatives found
+[2025-11-27 11:28:23] 
+Paragraph 104/470:
+[2025-11-27 11:28:29]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:28:29]   Total so far: 122
+[2025-11-27 11:28:29] 
+Paragraph 105/470:
+[2025-11-27 11:28:59]   ✗ Error: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=30)
+[2025-11-27 11:28:59]   - No initiatives found
+[2025-11-27 11:29:00] 
+Paragraph 106/470:
+[2025-11-27 11:29:04]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:04]   Total so far: 124
+[2025-11-27 11:29:04] 
+Paragraph 107/470:
+[2025-11-27 11:29:07]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:07]   Total so far: 125
+[2025-11-27 11:29:07] 
+Paragraph 108/470:
+[2025-11-27 11:29:12]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:12]   Total so far: 126
+[2025-11-27 11:29:12] 
+Paragraph 109/470:
+[2025-11-27 11:29:14]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:14]   Total so far: 127
+[2025-11-27 11:29:15] 
+Paragraph 110/470:
+[2025-11-27 11:29:17]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:17]   Total so far: 128
+[2025-11-27 11:29:18] 
+================================================================================
+[2025-11-27 11:29:18] CHECKPOINT: 110/470 paragraphs processed
+[2025-11-27 11:29:18] Total initiatives saved to CSV: 128
+[2025-11-27 11:29:18] ================================================================================
+
+[2025-11-27 11:29:18] 
+Paragraph 111/470:
+[2025-11-27 11:29:21]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:21]   Total so far: 129
+[2025-11-27 11:29:21] 
+Paragraph 112/470:
+[2025-11-27 11:29:23]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:23]   Total so far: 130
+[2025-11-27 11:29:24] 
+Paragraph 113/470:
+[2025-11-27 11:29:24]   - No initiatives found
+[2025-11-27 11:29:25] 
+Paragraph 114/470:
+[2025-11-27 11:29:28]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:28]   Total so far: 132
+[2025-11-27 11:29:28] 
+Paragraph 115/470:
+[2025-11-27 11:29:32]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:32]   Total so far: 134
+[2025-11-27 11:29:32] 
+Paragraph 116/470:
+[2025-11-27 11:29:36]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:36]   Total so far: 136
+[2025-11-27 11:29:36] 
+Paragraph 117/470:
+[2025-11-27 11:29:38]   - No initiatives found
+[2025-11-27 11:29:38] 
+Paragraph 118/470:
+[2025-11-27 11:29:39]   - No initiatives found
+[2025-11-27 11:29:40] 
+Paragraph 119/470:
+[2025-11-27 11:29:52]   ✓ Found 10 initiative(s) - SAVED to CSV
+[2025-11-27 11:29:52]   Total so far: 146
+[2025-11-27 11:29:52] 
+Paragraph 120/470:
+[2025-11-27 11:29:53]   - No initiatives found
+[2025-11-27 11:29:54] 
+================================================================================
+[2025-11-27 11:29:54] CHECKPOINT: 120/470 paragraphs processed
+[2025-11-27 11:29:54] Total initiatives saved to CSV: 146
+[2025-11-27 11:29:54] ================================================================================
+
+[2025-11-27 11:29:54] 
+Paragraph 121/470:
+[2025-11-27 11:29:54]   - No initiatives found
+[2025-11-27 11:29:55] 
+Paragraph 122/470:
+[2025-11-27 11:29:56]   - No initiatives found
+[2025-11-27 11:29:56] 
+Paragraph 123/470:
+[2025-11-27 11:30:00]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:00]   Total so far: 148
+[2025-11-27 11:30:01] 
+Paragraph 124/470:
+[2025-11-27 11:30:02]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:02]   Total so far: 149
+[2025-11-27 11:30:03] 
+Paragraph 125/470:
+[2025-11-27 11:30:06]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:06]   Total so far: 150
+[2025-11-27 11:30:06] 
+Paragraph 126/470:
+[2025-11-27 11:30:10]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:10]   Total so far: 152
+[2025-11-27 11:30:10] 
+Paragraph 127/470:
+[2025-11-27 11:30:12]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:12]   Total so far: 153
+[2025-11-27 11:30:13] 
+Paragraph 128/470:
+[2025-11-27 11:30:17]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:17]   Total so far: 156
+[2025-11-27 11:30:18] 
+Paragraph 129/470:
+[2025-11-27 11:30:20]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:20]   Total so far: 157
+[2025-11-27 11:30:21] 
+Paragraph 130/470:
+[2025-11-27 11:30:22]   - No initiatives found
+[2025-11-27 11:30:22] 
+================================================================================
+[2025-11-27 11:30:22] CHECKPOINT: 130/470 paragraphs processed
+[2025-11-27 11:30:22] Total initiatives saved to CSV: 157
+[2025-11-27 11:30:22] ================================================================================
+
+[2025-11-27 11:30:22] 
+Paragraph 131/470:
+[2025-11-27 11:30:23]   - No initiatives found
+[2025-11-27 11:30:23] 
+Paragraph 132/470:
+[2025-11-27 11:30:33]   ✓ Found 9 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:33]   Total so far: 166
+[2025-11-27 11:30:34] 
+Paragraph 133/470:
+[2025-11-27 11:30:35]   - No initiatives found
+[2025-11-27 11:30:36] 
+Paragraph 134/470:
+[2025-11-27 11:30:43]   ✓ Found 6 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:43]   Total so far: 172
+[2025-11-27 11:30:43] 
+Paragraph 135/470:
+[2025-11-27 11:30:44]   - No initiatives found
+[2025-11-27 11:30:45] 
+Paragraph 136/470:
+[2025-11-27 11:30:51]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:51]   Total so far: 176
+[2025-11-27 11:30:51] 
+Paragraph 137/470:
+[2025-11-27 11:30:58]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:30:58]   Total so far: 180
+[2025-11-27 11:30:59] 
+Paragraph 138/470:
+[2025-11-27 11:31:02]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:02]   Total so far: 181
+[2025-11-27 11:31:03] 
+Paragraph 139/470:
+[2025-11-27 11:31:03]   - No initiatives found
+[2025-11-27 11:31:04] 
+Paragraph 140/470:
+[2025-11-27 11:31:08]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:08]   Total so far: 184
+[2025-11-27 11:31:09] 
+================================================================================
+[2025-11-27 11:31:09] CHECKPOINT: 140/470 paragraphs processed
+[2025-11-27 11:31:09] Total initiatives saved to CSV: 184
+[2025-11-27 11:31:09] ================================================================================
+
+[2025-11-27 11:31:09] 
+Paragraph 141/470:
+[2025-11-27 11:31:12]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:12]   Total so far: 186
+[2025-11-27 11:31:12] 
+Paragraph 142/470:
+[2025-11-27 11:31:13]   - No initiatives found
+[2025-11-27 11:31:14] 
+Paragraph 143/470:
+[2025-11-27 11:31:16]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:16]   Total so far: 187
+[2025-11-27 11:31:16] 
+Paragraph 144/470:
+[2025-11-27 11:31:19]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:19]   Total so far: 188
+[2025-11-27 11:31:19] 
+Paragraph 145/470:
+[2025-11-27 11:31:21]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:21]   Total so far: 189
+[2025-11-27 11:31:22] 
+Paragraph 146/470:
+[2025-11-27 11:31:25]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:25]   Total so far: 191
+[2025-11-27 11:31:25] 
+Paragraph 147/470:
+[2025-11-27 11:31:28]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:28]   Total so far: 192
+[2025-11-27 11:31:28] 
+Paragraph 148/470:
+[2025-11-27 11:31:29]   - No initiatives found
+[2025-11-27 11:31:29] 
+Paragraph 149/470:
+[2025-11-27 11:31:33]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:33]   Total so far: 194
+[2025-11-27 11:31:34] 
+Paragraph 150/470:
+[2025-11-27 11:31:34]   - No initiatives found
+[2025-11-27 11:31:35] 
+================================================================================
+[2025-11-27 11:31:35] CHECKPOINT: 150/470 paragraphs processed
+[2025-11-27 11:31:35] Total initiatives saved to CSV: 194
+[2025-11-27 11:31:35] ================================================================================
+
+[2025-11-27 11:31:35] 
+Paragraph 151/470:
+[2025-11-27 11:31:40]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:40]   Total so far: 198
+[2025-11-27 11:31:41] 
+Paragraph 152/470:
+[2025-11-27 11:31:43]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:43]   Total so far: 199
+[2025-11-27 11:31:43] 
+Paragraph 153/470:
+[2025-11-27 11:31:45]   - No initiatives found
+[2025-11-27 11:31:45] 
+Paragraph 154/470:
+[2025-11-27 11:31:51]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:51]   Total so far: 204
+[2025-11-27 11:31:52] 
+Paragraph 155/470:
+[2025-11-27 11:31:56]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:56]   Total so far: 206
+[2025-11-27 11:31:57] 
+Paragraph 156/470:
+[2025-11-27 11:31:59]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:31:59]   Total so far: 207
+[2025-11-27 11:32:00] 
+Paragraph 157/470:
+[2025-11-27 11:32:01]   - No initiatives found
+[2025-11-27 11:32:01] 
+Paragraph 158/470:
+[2025-11-27 11:32:05]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:05]   Total so far: 210
+[2025-11-27 11:32:05] 
+Paragraph 159/470:
+[2025-11-27 11:32:09]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:09]   Total so far: 212
+[2025-11-27 11:32:09] 
+Paragraph 160/470:
+[2025-11-27 11:32:13]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:13]   Total so far: 214
+[2025-11-27 11:32:13] 
+================================================================================
+[2025-11-27 11:32:13] CHECKPOINT: 160/470 paragraphs processed
+[2025-11-27 11:32:13] Total initiatives saved to CSV: 214
+[2025-11-27 11:32:13] ================================================================================
+
+[2025-11-27 11:32:13] 
+Paragraph 161/470:
+[2025-11-27 11:32:14]   - No initiatives found
+[2025-11-27 11:32:14] 
+Paragraph 162/470:
+[2025-11-27 11:32:17]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:17]   Total so far: 215
+[2025-11-27 11:32:17] 
+Paragraph 163/470:
+[2025-11-27 11:32:19]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:19]   Total so far: 216
+[2025-11-27 11:32:20] 
+Paragraph 164/470:
+[2025-11-27 11:32:24]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:24]   Total so far: 220
+[2025-11-27 11:32:25] 
+Paragraph 165/470:
+[2025-11-27 11:32:27]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:27]   Total so far: 221
+[2025-11-27 11:32:27] 
+Paragraph 166/470:
+[2025-11-27 11:32:28]   - No initiatives found
+[2025-11-27 11:32:28] 
+Paragraph 167/470:
+[2025-11-27 11:32:30]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:30]   Total so far: 222
+[2025-11-27 11:32:31] 
+Paragraph 168/470:
+[2025-11-27 11:32:32]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:32]   Total so far: 223
+[2025-11-27 11:32:33] 
+Paragraph 169/470:
+[2025-11-27 11:32:40]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:40]   Total so far: 224
+[2025-11-27 11:32:41] 
+Paragraph 170/470:
+[2025-11-27 11:32:42]   - No initiatives found
+[2025-11-27 11:32:43] 
+================================================================================
+[2025-11-27 11:32:43] CHECKPOINT: 170/470 paragraphs processed
+[2025-11-27 11:32:43] Total initiatives saved to CSV: 224
+[2025-11-27 11:32:43] ================================================================================
+
+[2025-11-27 11:32:43] 
+Paragraph 171/470:
+[2025-11-27 11:32:45]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:45]   Total so far: 225
+[2025-11-27 11:32:46] 
+Paragraph 172/470:
+[2025-11-27 11:32:46]   - No initiatives found
+[2025-11-27 11:32:47] 
+Paragraph 173/470:
+[2025-11-27 11:32:48]   - No initiatives found
+[2025-11-27 11:32:48] 
+Paragraph 174/470:
+[2025-11-27 11:32:49]   - No initiatives found
+[2025-11-27 11:32:50] 
+Paragraph 175/470:
+[2025-11-27 11:32:52]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:52]   Total so far: 226
+[2025-11-27 11:32:52] 
+Paragraph 176/470:
+[2025-11-27 11:32:57]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:32:57]   Total so far: 229
+[2025-11-27 11:32:57] 
+Paragraph 177/470:
+[2025-11-27 11:33:01]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:01]   Total so far: 230
+[2025-11-27 11:33:01] 
+Paragraph 178/470:
+[2025-11-27 11:33:03]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:03]   Total so far: 231
+[2025-11-27 11:33:04] 
+Paragraph 179/470:
+[2025-11-27 11:33:05]   - No initiatives found
+[2025-11-27 11:33:05] 
+Paragraph 180/470:
+[2025-11-27 11:33:10]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:10]   Total so far: 234
+[2025-11-27 11:33:10] 
+================================================================================
+[2025-11-27 11:33:10] CHECKPOINT: 180/470 paragraphs processed
+[2025-11-27 11:33:10] Total initiatives saved to CSV: 234
+[2025-11-27 11:33:10] ================================================================================
+
+[2025-11-27 11:33:10] 
+Paragraph 181/470:
+[2025-11-27 11:33:11]   - No initiatives found
+[2025-11-27 11:33:11] 
+Paragraph 182/470:
+[2025-11-27 11:33:15]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:15]   Total so far: 235
+[2025-11-27 11:33:15] 
+Paragraph 183/470:
+[2025-11-27 11:33:18]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:18]   Total so far: 236
+[2025-11-27 11:33:18] 
+Paragraph 184/470:
+[2025-11-27 11:33:21]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:21]   Total so far: 237
+[2025-11-27 11:33:21] 
+Paragraph 185/470:
+[2025-11-27 11:33:24]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:24]   Total so far: 239
+[2025-11-27 11:33:25] 
+Paragraph 186/470:
+[2025-11-27 11:33:30]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:30]   Total so far: 243
+[2025-11-27 11:33:30] 
+Paragraph 187/470:
+[2025-11-27 11:33:35]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:35]   Total so far: 245
+[2025-11-27 11:33:35] 
+Paragraph 188/470:
+[2025-11-27 11:33:39]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:39]   Total so far: 247
+[2025-11-27 11:33:39] 
+Paragraph 189/470:
+[2025-11-27 11:33:40]   - No initiatives found
+[2025-11-27 11:33:41] 
+Paragraph 190/470:
+[2025-11-27 11:33:43]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:43]   Total so far: 248
+[2025-11-27 11:33:43] 
+================================================================================
+[2025-11-27 11:33:43] CHECKPOINT: 190/470 paragraphs processed
+[2025-11-27 11:33:43] Total initiatives saved to CSV: 248
+[2025-11-27 11:33:43] ================================================================================
+
+[2025-11-27 11:33:43] 
+Paragraph 191/470:
+[2025-11-27 11:33:46]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:46]   Total so far: 249
+[2025-11-27 11:33:47] 
+Paragraph 192/470:
+[2025-11-27 11:33:50]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:50]   Total so far: 250
+[2025-11-27 11:33:51] 
+Paragraph 193/470:
+[2025-11-27 11:33:57]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:33:57]   Total so far: 255
+[2025-11-27 11:33:58] 
+Paragraph 194/470:
+[2025-11-27 11:33:59]   - No initiatives found
+[2025-11-27 11:33:59] 
+Paragraph 195/470:
+[2025-11-27 11:34:04]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:04]   Total so far: 258
+[2025-11-27 11:34:04] 
+Paragraph 196/470:
+[2025-11-27 11:34:10]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:10]   Total so far: 263
+[2025-11-27 11:34:11] 
+Paragraph 197/470:
+[2025-11-27 11:34:18]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:18]   Total so far: 266
+[2025-11-27 11:34:18] 
+Paragraph 198/470:
+[2025-11-27 11:34:22]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:22]   Total so far: 268
+[2025-11-27 11:34:23] 
+Paragraph 199/470:
+[2025-11-27 11:34:24]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:24]   Total so far: 269
+[2025-11-27 11:34:25] 
+Paragraph 200/470:
+[2025-11-27 11:34:28]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:28]   Total so far: 270
+[2025-11-27 11:34:28] 
+================================================================================
+[2025-11-27 11:34:28] CHECKPOINT: 200/470 paragraphs processed
+[2025-11-27 11:34:28] Total initiatives saved to CSV: 270
+[2025-11-27 11:34:28] ================================================================================
+
+[2025-11-27 11:34:28] 
+Paragraph 201/470:
+[2025-11-27 11:34:32]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:32]   Total so far: 272
+[2025-11-27 11:34:32] 
+Paragraph 202/470:
+[2025-11-27 11:34:34]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:34]   Total so far: 273
+[2025-11-27 11:34:35] 
+Paragraph 203/470:
+[2025-11-27 11:34:38]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:38]   Total so far: 275
+[2025-11-27 11:34:38] 
+Paragraph 204/470:
+[2025-11-27 11:34:42]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:42]   Total so far: 276
+[2025-11-27 11:34:42] 
+Paragraph 205/470:
+[2025-11-27 11:34:44]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:44]   Total so far: 277
+[2025-11-27 11:34:45] 
+Paragraph 206/470:
+[2025-11-27 11:34:48]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:48]   Total so far: 278
+[2025-11-27 11:34:49] 
+Paragraph 207/470:
+[2025-11-27 11:34:56]   ✓ Found 6 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:56]   Total so far: 284
+[2025-11-27 11:34:57] 
+Paragraph 208/470:
+[2025-11-27 11:34:59]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:34:59]   Total so far: 286
+[2025-11-27 11:35:00] 
+Paragraph 209/470:
+[2025-11-27 11:35:03]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:03]   Total so far: 288
+[2025-11-27 11:35:04] 
+Paragraph 210/470:
+[2025-11-27 11:35:06]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:06]   Total so far: 289
+[2025-11-27 11:35:06] 
+================================================================================
+[2025-11-27 11:35:06] CHECKPOINT: 210/470 paragraphs processed
+[2025-11-27 11:35:06] Total initiatives saved to CSV: 289
+[2025-11-27 11:35:06] ================================================================================
+
+[2025-11-27 11:35:06] 
+Paragraph 211/470:
+[2025-11-27 11:35:08]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:08]   Total so far: 290
+[2025-11-27 11:35:09] 
+Paragraph 212/470:
+[2025-11-27 11:35:14]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:14]   Total so far: 294
+[2025-11-27 11:35:14] 
+Paragraph 213/470:
+[2025-11-27 11:35:19]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:19]   Total so far: 297
+[2025-11-27 11:35:19] 
+Paragraph 214/470:
+[2025-11-27 11:35:22]   - No initiatives found
+[2025-11-27 11:35:23] 
+Paragraph 215/470:
+[2025-11-27 11:35:25]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:25]   Total so far: 298
+[2025-11-27 11:35:26] 
+Paragraph 216/470:
+[2025-11-27 11:35:28]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:28]   Total so far: 299
+[2025-11-27 11:35:29] 
+Paragraph 217/470:
+[2025-11-27 11:35:31]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:31]   Total so far: 300
+[2025-11-27 11:35:31] 
+Paragraph 218/470:
+[2025-11-27 11:35:34]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:34]   Total so far: 301
+[2025-11-27 11:35:35] 
+Paragraph 219/470:
+[2025-11-27 11:35:37]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:37]   Total so far: 302
+[2025-11-27 11:35:37] 
+Paragraph 220/470:
+[2025-11-27 11:35:41]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:41]   Total so far: 303
+[2025-11-27 11:35:42] 
+================================================================================
+[2025-11-27 11:35:42] CHECKPOINT: 220/470 paragraphs processed
+[2025-11-27 11:35:42] Total initiatives saved to CSV: 303
+[2025-11-27 11:35:42] ================================================================================
+
+[2025-11-27 11:35:42] 
+Paragraph 221/470:
+[2025-11-27 11:35:44]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:44]   Total so far: 304
+[2025-11-27 11:35:45] 
+Paragraph 222/470:
+[2025-11-27 11:35:51]   ✓ Found 6 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:51]   Total so far: 310
+[2025-11-27 11:35:51] 
+Paragraph 223/470:
+[2025-11-27 11:35:55]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:55]   Total so far: 312
+[2025-11-27 11:35:56] 
+Paragraph 224/470:
+[2025-11-27 11:35:59]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:35:59]   Total so far: 313
+[2025-11-27 11:35:59] 
+Paragraph 225/470:
+[2025-11-27 11:36:01]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:01]   Total so far: 314
+[2025-11-27 11:36:02] 
+Paragraph 226/470:
+[2025-11-27 11:36:03]   - No initiatives found
+[2025-11-27 11:36:03] 
+Paragraph 227/470:
+[2025-11-27 11:36:10]   ✓ Found 5 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:10]   Total so far: 319
+[2025-11-27 11:36:11] 
+Paragraph 228/470:
+[2025-11-27 11:36:13]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:13]   Total so far: 320
+[2025-11-27 11:36:13] 
+Paragraph 229/470:
+[2025-11-27 11:36:15]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:15]   Total so far: 321
+[2025-11-27 11:36:16] 
+Paragraph 230/470:
+[2025-11-27 11:36:25]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:25]   Total so far: 323
+[2025-11-27 11:36:25] 
+================================================================================
+[2025-11-27 11:36:25] CHECKPOINT: 230/470 paragraphs processed
+[2025-11-27 11:36:25] Total initiatives saved to CSV: 323
+[2025-11-27 11:36:25] ================================================================================
+
+[2025-11-27 11:36:25] 
+Paragraph 231/470:
+[2025-11-27 11:36:29]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:29]   Total so far: 325
+[2025-11-27 11:36:29] 
+Paragraph 232/470:
+[2025-11-27 11:36:32]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:32]   Total so far: 327
+[2025-11-27 11:36:33] 
+Paragraph 233/470:
+[2025-11-27 11:36:37]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:37]   Total so far: 330
+[2025-11-27 11:36:37] 
+Paragraph 234/470:
+[2025-11-27 11:36:42]   ✓ Found 4 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:42]   Total so far: 334
+[2025-11-27 11:36:43] 
+Paragraph 235/470:
+[2025-11-27 11:36:43]   - No initiatives found
+[2025-11-27 11:36:44] 
+Paragraph 236/470:
+[2025-11-27 11:36:49]   ✓ Found 3 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:49]   Total so far: 337
+[2025-11-27 11:36:49] 
+Paragraph 237/470:
+[2025-11-27 11:36:52]   ✓ Found 2 initiative(s) - SAVED to CSV
+[2025-11-27 11:36:52]   Total so far: 339
+[2025-11-27 11:36:53] 
+Paragraph 238/470:
+[2025-11-27 11:36:53]   - No initiatives found
+[2025-11-27 11:36:54] 
+Paragraph 239/470:
+[2025-11-27 11:36:56]   - No initiatives found
+[2025-11-27 11:36:57] 
+Paragraph 240/470:
+[2025-11-27 11:37:03]   - No initiatives found
+[2025-11-27 11:37:03] 
+================================================================================
+[2025-11-27 11:37:03] CHECKPOINT: 240/470 paragraphs processed
+[2025-11-27 11:37:03] Total initiatives saved to CSV: 339
+[2025-11-27 11:37:03] ================================================================================
+
+[2025-11-27 11:37:03] 
+Paragraph 241/470:
+[2025-11-27 11:37:04]   - No initiatives found
+[2025-11-27 11:37:05] 
+Paragraph 242/470:
+[2025-11-27 11:37:07]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:37:07]   Total so far: 340
+[2025-11-27 11:37:08] 
+Paragraph 243/470:
+[2025-11-27 11:37:09]   - No initiatives found
+[2025-11-27 11:37:09] 
+Paragraph 244/470:
+[2025-11-27 11:37:17]   ✓ Found 6 initiative(s) - SAVED to CSV
+[2025-11-27 11:37:17]   Total so far: 346
+[2025-11-27 11:37:18] 
+Paragraph 245/470:
+[2025-11-27 11:37:19]   - No initiatives found
+[2025-11-27 11:37:19] 
+Paragraph 246/470:
+[2025-11-27 11:37:21]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:37:21]   Total so far: 347
+[2025-11-27 11:37:22] 
+Paragraph 247/470:
+[2025-11-27 11:37:24]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:37:24]   Total so far: 348
+[2025-11-27 11:37:24] 
+Paragraph 248/470:
+[2025-11-27 11:37:25]   - No initiatives found
+[2025-11-27 11:37:26] 
+Paragraph 249/470:
+[2025-11-27 11:37:32]   - No initiatives found
+[2025-11-27 11:37:32] 
+Paragraph 250/470:
+[2025-11-27 11:37:35]   ✓ Found 1 initiative(s) - SAVED to CSV
+[2025-11-27 11:37:35]   Total so far: 349
+[2025-11-27 11:37:35] 
+================================================================================
+[2025-11-27 11:37:35] CHECKPOINT: 250/470 paragraphs processed
+[2025-11-27 11:37:35] 
+✗ ERROR: [Errno 32] Broken pipe
+[2025-11-27 11:37:35] Traceback (most recent call last):
+  File "/Users/simonwang/Documents/Usage/ai7010/lab2/Scripts/identify_initiatives_incremental.py", line 220, in main
+    log(f"CHECKPOINT: {idx}/{len(paragraphs)} paragraphs processed")
+  File "/Users/simonwang/Documents/Usage/ai7010/lab2/Scripts/identify_initiatives_incremental.py", line 34, in log
+    print(log_msg)
+BrokenPipeError: [Errno 32] Broken pipe
+

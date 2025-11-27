@@ -1,0 +1,29 @@
+[2025-11-27 13:37:30] ============================================================
+[2025-11-27 13:37:30] Starting Slide Image Generation Process
+[2025-11-27 13:37:30] Processing slides 1 to 2
+[2025-11-27 13:37:30] ============================================================
+[2025-11-27 13:37:30] ✓ API client initialized successfully
+[2025-11-27 13:37:30] 
+============================================================
+[2025-11-27 13:37:30] Processing slide 1/2
+[2025-11-27 13:37:30] ============================================================
+[2025-11-27 13:37:30] Analyzing slide 1 with Gemini...
+[2025-11-27 13:37:37] ✓ Created DALL-E prompt for slide 1
+[2025-11-27 13:37:37] Saved DALL-E prompt to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_1_dalle_prompt.txt
+[2025-11-27 13:37:37] Generating new image for slide 1...
+[2025-11-27 13:37:37] ✗ Error generating image for slide 1: Error code: 405
+[2025-11-27 13:37:37] Skipping slide 1 due to generation error
+[2025-11-27 13:37:37] 
+============================================================
+[2025-11-27 13:37:37] Processing slide 2/2
+[2025-11-27 13:37:37] ============================================================
+[2025-11-27 13:37:37] Analyzing slide 2 with Gemini...
+[2025-11-27 13:37:43] ✓ Created DALL-E prompt for slide 2
+[2025-11-27 13:37:43] Saved DALL-E prompt to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides/slide_2_dalle_prompt.txt
+[2025-11-27 13:37:43] Generating new image for slide 2...
+[2025-11-27 13:37:43] ✗ Error generating image for slide 2: Error code: 405
+[2025-11-27 13:37:43] Skipping slide 2 due to generation error
+[2025-11-27 13:37:43] ============================================================
+[2025-11-27 13:37:43] Image generation complete!
+[2025-11-27 13:37:43] New slide images saved to: /Users/simonwang/Documents/Usage/ai7010/lab3/newSlides
+[2025-11-27 13:37:43] ============================================================

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/Users/simonwang/Documents/Usage/ai7010/lab4/Scripts/web_crawler.py", line 22, in <module>
+    api_key = load_api_key()
+  File "/Users/simonwang/Documents/Usage/ai7010/api_key_loader.py", line 31, in load_api_key
+    raise FileNotFoundError(
+FileNotFoundError: API key file not found: /Users/simonwang/Documents/Usage/ai7010/APIkey.md
+Please create APIkey.md with your API keys
